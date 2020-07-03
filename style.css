@@ -1,0 +1,38 @@
+.container{
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightcoral;
+    width: 450px;
+    text-align: center;
+}
+
+.inputText, .addBtn, .removeAllBtn, .removeItem{
+
+    padding: 8px;
+    margin: 4px;
+
+} 
+
+.addBtn{
+    background-color: green;
+    color: white;
+    font-weight: bolder;
+    
+}
+
+.removeAllBtn, .removeItem {
+    background-color: red;
+    color: white;
+    font-weight: bolder;
+    
+}
+
+.removeItem{
+    margin: 8px;
+}
+
+.li{
+    font-size: 26px;
+    text-align: left;
+}
+
